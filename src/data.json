@@ -1,0 +1,136 @@
+[  
+    {  
+        "imgURL":"0.jpg",
+       "id":"3be28bc3-bbb8-417c-becf-b9bc385359ec",
+       "alias":"gost.dorogoj",
+       "value":"20 \u0431\u0430\u043B\u043B\u043E\u0432",
+       "curValue":20.00,
+       "position":"\u0421\u0442\u0430\u0436\u0435p",
+       "division":"\u0410\u0434\u043C\u0438\u043D\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u044F",
+       "displayName":"\u0411\u044D\u043D \u0423\u0438\u0442\u0442\u0430\u043A\u0435\u0440",
+       "imgId":"11bccb71-6d69-4fbe-916d-c33aba1b84bb",
+       "percantage":"100%",
+       "level":""
+    },
+    {  
+        "imgURL":"1.jpg",
+    
+        "id":"61e06660-756b-4112-b2e3-838437c0866c",
+       "alias":"fiona",
+       "value":"18 \u0431\u0430\u043B\u043B\u043E\u0432",
+       "curValue":18.00,
+       "position":"\u041C\u0430\u0441\u0441\u0430\u0436\u0438\u0441\u0442",
+       "division":"\u041E\u0442\u0434\u0435\u043B \u0437\u0430\u0431\u043E\u0442\u044B \u043E \u0441\u043E\u0442\u0440\u0443\u0434\u043D\u0438\u043A\u0430\u0445",
+       "displayName":"\u0424\u0438\u043E\u043D\u0430 ",
+       "imgId":"1e550214-7f77-4173-9452-fd497e7555a6",
+       "percantage":"90%",
+       "level":""
+    },
+    {      "imgURL":"2.jpg",
+    
+       "id":"5fbb58b0-9ccd-48a0-b33d-bf1d8db84d61",
+       "alias":"luis",
+       "value":"12 \u0431\u0430\u043B\u043B\u043E\u0432",
+       "curValue":12.00,
+       "position":"\u0414\u0438\u0437\u0430\u0439\u043D\u0435\u0440",
+       "division":"\u041E\u0442\u0434\u0435\u043B \u043C\u0430\u0440\u043A\u0435\u0442\u0438\u043D\u0433\u0430",
+       "displayName":"\u041B\u044C\u044E\u0438\u0441 ",
+       "imgId":"4bc93868-6dc0-4b89-bcd2-ba7d0bc1825f",
+       "percantage":"60%",
+       "level":""
+    },
+    {      "imgURL":"3.jpg",
+    
+       "id":"4c7fecb3-c2ce-4332-a888-9da05177458f",
+       "alias":"rebekka",
+       "value":"10 \u0431\u0430\u043B\u043B\u043E\u0432",
+       "curValue":10.00,
+       "position":"\u0421\u0435\u043A\u0442\u0435\u0440\u0430\u0440\u044C",
+       "division":"\u0410\u0434\u043C\u0438\u043D\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u044F",
+       "displayName":"\u0411\u044D\u043A\u043A\u0438 ",
+       "imgId":"8df8f608-7ec1-4cc7-bdf3-418b41045424",
+       "percantage":"50%",
+       "level":""
+    },
+    {    
+          "imgURL":"4.jpg",
+    
+       "id":"e5ea9ae6-0a33-4f76-8eae-42a1dbe149fd",
+       "alias":"kameron",
+       "value":"7 \u0431\u0430\u043B\u043B\u043E\u0432",
+       "curValue":7.00,
+       "position":"\u041C\u0435\u043D\u0435\u0434\u0436\u0435\u0440",
+       "division":"\u0410\u0434\u043C\u0438\u043D\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u044F",
+       "displayName":"\u041A\u044D\u043C\u0435\u0440\u043E\u043D ",
+       "imgId":"b0a0a7e3-f1e6-4da6-88d8-bd0c33ce5172",
+       "percantage":"35%",
+       "level":""
+    },
+    {
+              "imgURL":"5.jpg",
+    
+       "id":"712d9996-6b10-4edd-994d-fa2fcab2cd8d",
+       "alias":"davis",
+       "value":"4 \u0431\u0430\u043B\u043B\u043E\u0432",
+       "curValue":4.00,
+       "position":"\u0421\u0442\u0430\u0436\u0435\u0440",
+       "division":"\u041E\u0442\u0434\u0435\u043B \u043C\u0430\u0440\u043A\u0435\u0442\u0438\u043D\u0433\u0430",
+       "displayName":"\u0414\u044D\u0432\u0438\u0441 ",
+       "imgId":"79932b02-cf3e-42a4-b207-cfcf3bbefc75",
+       "percantage":"20%",
+       "level":""
+    },
+    {      "imgURL":"6.jpg",
+    
+       "id":"384f3471-b8e7-4b50-9222-ffa688e8b2f7",
+       "alias":"jason",
+       "value":"3 \u0431\u0430\u043B\u043B\u043E\u0432",
+       "curValue":3.00,
+       "position":"\u041C\u0435\u043D\u0435\u0434\u0436\u0435\u0440",
+       "division":"\u041E\u0442\u0434\u0435\u043B \u043C\u0430\u0440\u043A\u0435\u0442\u0438\u043D\u0433\u0430",
+       "displayName":"\u0414\u0436\u0435\u0439\u0441\u043E\u043D ",
+       "imgId":"564152a0-a3fb-473f-9ad4-73df2d50d88b",
+       "percantage":"15%",
+       "level":""
+    },
+    { 
+             "imgURL":"7.jpg",
+    
+       "id":"28055716-7333-4c8a-84ee-8bb13bae782c",
+       "alias":"j.ostin",
+       "value":"1 \u0431\u0430\u043B\u043B\u043E\u0432",
+       "curValue":1.00,
+       "position":"\u0414\u0438\u0440\u0435\u043A\u0442\u043E\u0440",
+       "division":"\u0422\u043E\u043F-\u043C\u0435\u043D\u0435\u0434\u0436\u043C\u0435\u043D\u0442",
+       "displayName":"\u0414\u0436\u0443\u043B\u0441 \u041E\u0441\u0442\u0438\u043D",
+       "imgId":"62e47ae7-c18a-4b73-852a-dea28078619c",
+       "percantage":"5%",
+       "level":""
+    },
+    {      "imgURL":"8.jpg",
+    
+       "id":"4af79ead-a728-4e76-883a-65fb97ff1d4c",
+       "alias":"aleksej.lyubko",
+       "value":"0 \u0431\u0430\u043B\u043B\u043E\u0432",
+       "curValue":0.00,
+       "position":"\u0413\u0435\u043D\u0435\u0440\u0430\u043B\u044C\u043D\u043E-\u0442\u0435\u0445\u043D\u0438\u0447\u0435\u0441\u043A\u0438\u0439 \u0434\u0438\u0440\u0435\u043A\u0442\u043E\u0440 (pryaniky.com)",
+       "division":"\u0414\u0435\u043F\u0430\u0440\u0442\u0430\u043C\u0435\u043D\u0442 \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0438",
+       "displayName":"\u0410\u043B\u0435\u043A\u0441\u0435\u0439 \u041B\u044E\u0431\u043A\u043E",
+       "imgId":"53c61079-7cc4-42a3-80e4-74093edb52aa",
+       "percantage":"0%",
+       "level":""
+    },
+    {      "imgURL":"9.jpg",
+    
+       "id":"7789d70f-9107-43fe-a527-33201904a216",
+       "alias":"artem.cheremisov",
+       "value":"0 \u0431\u0430\u043B\u043B\u043E\u0432",
+       "curValue":0.00,
+       "position":"",
+       "division":"",
+       "displayName":"\u0421\u0442\u0438\u0432\u0435\u043D \u0413\u043E\u043B\u0434\u0431\u043B\u0430\u0442\u0442",
+       "imgId":"0ee7f9cb-5db8-4f49-bd1d-f967c0498265",
+       "percantage":"0%",
+       "level":""
+    }
+  ]
